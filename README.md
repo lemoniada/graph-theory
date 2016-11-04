@@ -8,7 +8,7 @@ Create weighted graph and calculate shortest paths from Lostowice
 
 Example output:
 
-
+![image alt text](floyd-warshall.png)
 
 ## Adjacency
 
@@ -17,7 +17,7 @@ Number of triangles in an undirected graph G is equal to tr(A^3)/6, where A is a
 
 Example output:
 
-![image alt text](adjacency.jpg)
+![image alt text](adjacency.png)
 
 
 ## Kirchoff's theorem
@@ -33,6 +33,6 @@ Create weighted graph and calculate shortest paths from Lostowice
 
 Example output:
 
-![image alt text](dijkstra.jpg)
+![image alt text](dijkstra.png)
 
 
