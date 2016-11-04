@@ -29,9 +29,10 @@ Example output:
 
 ## Floyd-Warshall
 
-Create weighted graph and calculate shortest paths from Lostowice
+Having an adjacency matrix, calculate the shortest paths.
 [wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 Example output:
 
+![image alt text](floyd-warshall2.png)
 ![image alt text](floyd-warshall.png)
