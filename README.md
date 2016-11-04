@@ -7,7 +7,6 @@ Number of triangles in an undirected graph G is equal to tr(A^3)/6, where A is a
 
 Example output:
 
-![image alt text](adjacency2.png)
 ![image alt text](adjacency.png)
 
 
