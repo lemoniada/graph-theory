@@ -7,6 +7,7 @@ Number of triangles in an undirected graph G is equal to tr(A^3)/6, where A is a
 [wiki](https://en.wikipedia.org/wiki/Adjacency_matrix#Properties)
 
 Example output:
+
 ![image alt text](adjacency.jpg)
 
 
@@ -22,6 +23,7 @@ Create weighted graph and calculate shortest paths from Lostowice
 [wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 Example output:
+
 ![image alt text](dijkstra.jpg)
 
 
