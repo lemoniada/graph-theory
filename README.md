@@ -1,15 +1,5 @@
 # graph-theory
 
-
-## Floyd-Warshall
-
-Create weighted graph and calculate shortest paths from Lostowice
-[wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-
-Example output:
-
-![image alt text](floyd-warshall.png)
-
 ## Adjacency
 
 Number of triangles in an undirected graph G is equal to tr(A^3)/6, where A is an adjacency matrix of G. Each vertex that forms triangle has different colour.
@@ -36,3 +26,11 @@ Example output:
 ![image alt text](dijkstra.png)
 
 
+## Floyd-Warshall
+
+Create weighted graph and calculate shortest paths from Lostowice
+[wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+Example output:
+
+![image alt text](floyd-warshall.png)
