@@ -23,6 +23,7 @@ Create weighted graph and calculate shortest paths from Lostowice
 
 Example output:
 
+![image alt text](dijkstra2.png)
 ![image alt text](dijkstra.png)
 
 
