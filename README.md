@@ -37,5 +37,4 @@ Having an adjacency matrix, calculate the shortest paths.
 
 Example output:
 
-![image alt text](floyd-warshall2.png)
 ![image alt text](floyd-warshall.png)
