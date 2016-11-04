@@ -15,6 +15,10 @@ Example output:
 Calculating the number of spanning trees in a graph.
 [Wikipedia](https://en.wikipedia.org/wiki/Kirchhoff%27s_theorem)
 
+Example output:
+
+![image alt text](kirchoff.png)
+
 
 ## Dijkstra
 
