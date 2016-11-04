@@ -8,7 +8,7 @@ Create weighted graph and calculate shortest paths from Lostowice
 
 Example output:
 
-![image alt text](floyd-warshall.jpg)
+![image alt text](floyd-warshall.png)
 
 
 ## Adjacency
